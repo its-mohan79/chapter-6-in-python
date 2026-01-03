@@ -4,7 +4,7 @@
 
 a=int(input("enter your age: "))
 
-if(a>=18):
+if(a>=19):
     print("you are above the age of consent")
     print("good for you")
 elif(a<0):
